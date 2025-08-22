@@ -1,0 +1,14 @@
+h1 {
+    color: blue;
+}
+h2 {
+    color: red;
+}
+body{
+     text-align: center;
+     font-family: cursive;
+     font-size: 25px;
+}
+table,tr,td {
+    border: solid 5px;
+}
